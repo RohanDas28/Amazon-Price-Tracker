@@ -1,16 +1,13 @@
 import requests #pip install requests
 from bs4 import BeautifulSoup #pip install bs4
 import pygame #pip install  pygame
-import notify2 #pip install notify2
 import os
 import time
 import json
 
+#Opening The Settings.json file
 with open('settings.json','r') as file:
     settings = json.load(file)
-
-# initializing notify2
-notify2.init("Amazon Price Tracker")
 
 # To play a ding if the product is in our budget 
 pygame.mixer.init()
@@ -28,13 +25,14 @@ URL = settings['url']
 # Google "My User Agent" And Replace It
 headers = {"User-Agent": 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.75 Safari/537.36'} 
 
+#Checking the price
 def checking_price():
     page = requests.get(URL, headers=headers)
     soup  = BeautifulSoup(page.content, 'html.parser')
 
     #Finding the elements
-    product_title = soup.find (id= "productTitle").get_text()
-    product_price = soup.find (id= "priceblock_ourprice").get_text()
+    product_title = soup.find (id= "productTitle").getText()
+    product_price = soup.find (id= "priceblock_ourprice").getText()
 
     # using replace() to remove currency symbols
     for i in currency_symbols : 
@@ -47,10 +45,7 @@ def checking_price():
     print("The Product Name is:" ,product_title.strip())
     print("The Price is:" ,product_price)
 
-    # Making Alert
-    alert = notify2.Notification(product_title.strip(),message=f'Current Price: {product_price}', icon='')
-    alert.set_urgency(notify2.URGENCY_NORMAL)
-    alert.show()
+
 
     # checking the price
     if(product_price<my_price):
