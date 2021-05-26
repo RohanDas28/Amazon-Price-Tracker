@@ -31,8 +31,8 @@ def checking_price():
     soup  = BeautifulSoup(page.content, 'html.parser')
 
     #Finding the elements
-    product_title = soup.find (id= "productTitle").getText()
-    product_price = soup.find (id= "priceblock_ourprice").getText()
+    product_title = soup.find('span', id='productTitle').text.strip()
+    product_price = soup.find('span', id='priceblock_ourprice').text.strip()
 
     # using replace() to remove currency symbols
     for i in currency_symbols : 
