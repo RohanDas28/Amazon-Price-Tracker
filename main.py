@@ -4,6 +4,7 @@ import pygame #pip install  pygame
 import os
 import time
 import json
+from colored import fg, attr
 
 #Opening The Settings.json file
 with open('settings.json','r') as file:
@@ -41,20 +42,20 @@ def checking_price():
     #Converting the string to integer
     product_price = int(float(product_price))
 
-
-    print("The Product Name is:" ,product_title.strip())
-    print("The Price is:" ,product_price)
+    ProductTitleStrip = product_title.strip()
+    print(f"{fg('green_1')}The Product Name is:{attr('reset')}{fg('dark_slate_gray_2')} {ProductTitleStrip}{attr('reset')}")
+    print(f"{fg('green_1')}The Price is:{attr('reset')}{fg('orange_red_1')} {product_price}{attr('reset')}")
 
 
 
     # checking the price
     if(product_price<my_price):
         pygame.mixer.music.play()
-        print("You Can Buy This Now!")
+        print(f"{fg('medium_orchid_1b')}You Can Buy This Now!{attr('reset')}")
         time.sleep(3) # audio will be played first then exit the program. This time for audio playing.
         exit()
     else:
-        print("The Price Is Too High!")
+        print(f"{fg('red_1')}The Price Is Too High!{attr('reset')}")
 
 while True:
     checking_price()
