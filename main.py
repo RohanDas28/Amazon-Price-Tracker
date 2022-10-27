@@ -29,11 +29,11 @@ headers = {"User-Agent": 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KH
 #Checking the price
 def checking_price():
     page = requests.get(URL, headers=headers)
-    soup  = BeautifulSoup(page.content, 'html.parser')
+    soup  = BeautifulSoup(page.text, 'html.parser')
 
     #Finding the elements
-    product_title = soup.find('span', id='productTitle').text.strip()
-    product_price = soup.find('span', id='priceblock_ourprice').text.strip()
+    product_title = soup.find('span', id='productTitle').getText()
+    product_price = soup.find('span', class_ = "a-offscreen").getText()
 
     # using replace() to remove currency symbols
     for i in currency_symbols : 
