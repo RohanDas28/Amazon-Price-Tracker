@@ -35,9 +35,9 @@ For a professional approach to using proxies in your automation processes, I rec
 
 Here's how to get started:
 
-1. Register on the NodeMaven platform using this [link](https://go.nodemaven.com/proxies1).
+1. Register on the NodeMaven platform using this [link](https://go.nodemaven.com/rohandas).
 2. Select the trial option on your personal account.
-3. Get +2GB of free proxy when purchasing any package (except trial), using coupon RD2! Try NodeMaven now - [NodeMaven Proxies](https://go.nodemaven.com/proxies1)
+3. Get +2GB of free proxy when purchasing any package (except trial), using coupon RD2! Try NodeMaven now - [NodeMaven Proxies](https://go.nodemaven.com/rohandas)
 
 ---
 
