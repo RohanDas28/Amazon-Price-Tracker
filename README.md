@@ -15,7 +15,15 @@
 https://help.ubuntu.com/stable/ubuntu-help/startup-applications.html.en
 ### Windows
 https://support.microsoft.com/en-in/help/4026268/windows-10-change-startup-apps
+---
+## Using this with Proxy
+For a professional approach to using proxies in your automation processes, I recommend NodeMaven's Residential Proxies. Having tried numerous proxy providers, I find NodeMaven excels in simplicity and usefulness.
 
+Here's how to get started:
+
+Register on the NodeMaven platform using this link (https://go.nodemaven.com/proxies1).
+Select the trial option on your personal account.
+Get +2GB of free proxy when purchasing any package (except trial), using coupon RD2 ! Try NodeMaven now - https://go.nodemaven.com/proxies1
 ---
 ### Be sure to stargaze the repository and also checkout [My Website](https://rohandas28.github.io/) to contact me.
 #### Thank You.
