@@ -1,5 +1,3 @@
-Here's the corrected markdown for the Amazon Price Tracker script with improved formatting:
-
 # Amazon Price Tracker
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
