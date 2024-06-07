@@ -37,7 +37,7 @@ Here's how to get started:
 
 1. Register on the NodeMaven platform using this [link](https://go.nodemaven.com/rohandas).
 2. Select the trial option on your personal account.
-3. Get +2GB of free proxy when purchasing any package (except trial), using coupon RD2! Try NodeMaven now - [NodeMaven Proxies](https://go.nodemaven.com/rohandas)
+3. Use 500FREE at checkout to receive +2GB of free proxy when purchasing any package (except trial). Try NodeMaven now - [NodeMaven Proxies](https://go.nodemaven.com/rohandas)
 
 ---
 
