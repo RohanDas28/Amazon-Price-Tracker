@@ -41,9 +41,13 @@ Here's how to get started:
 
 With unlimited mobile proxy traffic, global residential IP coverage, and API support, CyberYozh makes it easier to run scalable scraping and automation workflows.
 
-Try CyberYozh now: [https://app.cyberyozh.com/](https://app.cyberyozh.com/)
+### Black Friday Special Offer
 
-Make the promotion more engagingAdd a stronger call to action
+CyberYozh is offering **50% OFF on all Rotating Residential Proxy plans** as part of its Black Friday promotion.
+
+If you're planning to scrape websites, collect data, or run AI-powered automation workflows, this is a good opportunity to get started at a discounted price.
+
+Try CyberYozh now: [https://app.cyberyozh.com/](https://app.cyberyozh.com/)
 
 ---
 
