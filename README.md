@@ -31,23 +31,35 @@
 
 ## Using CyberYozh Proxies
 
-For a professional approach to using proxies in your automation and web scraping workflows, I recommend CyberYozh. It offers mobile LTE/5G, residential ISP, rotating residential, and datacenter proxies to suit different requirements.
+For a professional approach to web scraping and automation, I recommend **CyberYozh**. It offers mobile LTE/5G, residential ISP, rotating residential, and datacenter proxies, backed by an expanding pool of **100M+ residential IPs across 195+ countries**.
+
+Its Rotating Residential Proxies are particularly useful for large-scale data collection, AI-powered scraping, price monitoring, and market research.
 
 Here's how to get started:
 
-1. Register on the CyberYozh platform using this [link](https://app.cyberyozh.com/).
-2. Choose the proxy type that best fits your scraping or automation workflow.
-3. Configure your proxy location, get your credentials, and integrate it with your preferred tools.
+1. Register on CyberYozh using this [link](https://app.cyberyozh.com/).
+2. Navigate to the Residential Rotating Proxies section.
+3. Choose a suitable plan, configure your proxy credentials, and integrate them with your preferred scraping tools.
 
-With unlimited mobile proxy traffic, global residential IP coverage, and API support, CyberYozh makes it easier to run scalable scraping and automation workflows.
+**Why choose CyberYozh?**
 
-### Black Friday Special Offer
+- **24-hour Sticky Sessions:** Maintain the same IP for extended scraping sessions.
+- **Rotating Sessions:** Automatically rotate IPs for distributed scraping workflows.
+- **Advanced IP Filtering:** Access quality-filtered residential IPs.
+- **Free Geo-targeting:** Target specific countries and locations.
+- **Traffic Rollover:** Unused traffic carries over to the next billing month.
+- **Pay-as-you-go:** Pay according to your actual bandwidth requirements.
+- **Full API Access:** Integrate proxies with Scrapy, Selenium, Playwright, Puppeteer, and custom automation scripts.
 
-CyberYozh is offering **50% OFF on all Rotating Residential Proxy plans** as part of its Black Friday promotion.
+### Black Friday Special Offer: 50% OFF
 
-If you're planning to scrape websites, collect data, or run AI-powered automation workflows, this is a good opportunity to get started at a discounted price.
+CyberYozh is offering **50% OFF all Rotating Residential Proxy plans** for Black Friday!
 
-Try CyberYozh now: [https://app.cyberyozh.com/](https://app.cyberyozh.com/)
+Use the promo code **ROTATING50** at checkout to claim your discount.
+
+Get started here: [CyberYozh Black Friday Deal](https://app.cyberyozh.com/proxy/residential-rotating/?plan=standard-payg&promo=ROTATING50)
+
+Don't miss the opportunity to get premium residential proxy infrastructure at half the price!
 
 ---
 
