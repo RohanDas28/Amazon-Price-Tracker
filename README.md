@@ -29,15 +29,21 @@
 
 ---
 
-## Using this with Proxy
+## Using CyberYozh Proxies
 
-For a professional approach to using proxies in your automation processes, I recommend NodeMaven's Residential Proxies. Having tried numerous proxy providers, I find NodeMaven excels in simplicity and usefulness.
+For a professional approach to using proxies in your automation and web scraping workflows, I recommend CyberYozh. It offers mobile LTE/5G, residential ISP, rotating residential, and datacenter proxies to suit different requirements.
 
 Here's how to get started:
 
-1. Register on the NodeMaven platform using this [link](https://go.nodemaven.com/rohandas).
-2. Select the trial option on your personal account.
-3. Use 500FREE at checkout to receive +2GB of free proxy when purchasing any package (except trial). Try NodeMaven now - [NodeMaven Proxies](https://go.nodemaven.com/rohandas)
+1. Register on the CyberYozh platform using this [link](https://app.cyberyozh.com/).
+2. Choose the proxy type that best fits your scraping or automation workflow.
+3. Configure your proxy location, get your credentials, and integrate it with your preferred tools.
+
+With unlimited mobile proxy traffic, global residential IP coverage, and API support, CyberYozh makes it easier to run scalable scraping and automation workflows.
+
+Try CyberYozh now: [https://app.cyberyozh.com/](https://app.cyberyozh.com/)
+
+Make the promotion more engagingAdd a stronger call to action
 
 ---
 
